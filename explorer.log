@@ -1,0 +1,474 @@
+nohup: appending output to ‘nohup.out’
+nohup: appending output to ‘nohup.out’
+nohup: appending output to ‘nohup.out’
+warning: Supervisor.start_child/2 with a list of args is deprecated, please use DynamicSupervisor instead
+  (elixir 1.13.4) lib/supervisor.ex:826: Supervisor.start_child/2
+  (que 0.10.1) lib/que/server_supervisor.ex:48: Que.ServerSupervisor.add/2
+  (block_scout_web 4.1.7) lib/block_scout_web/controllers/address_contract_verification_controller.ex:74: BlockScoutWeb.AddressContractVerificationController.create/2
+  (block_scout_web 4.1.7) lib/block_scout_web/controllers/address_contract_verification_controller.ex:1: BlockScoutWeb.AddressContractVerificationController.action/2
+  (block_scout_web 4.1.7) lib/block_scout_web/controllers/address_contract_verification_controller.ex:1: BlockScoutWeb.AddressContractVerificationController.phoenix_controller_pipeline/2
+  (phoenix 1.5.13) lib/phoenix/router.ex:352: Phoenix.Router.__call__/2
+
+internal/modules/cjs/loader.js:883
+  throw err;
+  ^
+
+Error: Cannot find module 'solc'
+Require stack:
+- /root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js'
+  ]
+}
+internal/modules/cjs/loader.js:883
+  throw err;
+  ^
+
+Error: Cannot find module 'solc'
+Require stack:
+- /root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js'
+  ]
+}
+internal/modules/cjs/loader.js:883
+  throw err;
+  ^
+
+Error: Cannot find module 'solc'
+Require stack:
+- /root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js'
+  ]
+}
+internal/modules/cjs/loader.js:883
+  throw err;
+  ^
+
+Error: Cannot find module 'solc'
+Require stack:
+- /root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js'
+  ]
+}
+internal/modules/cjs/loader.js:883
+  throw err;
+  ^
+
+Error: Cannot find module 'solc'
+Require stack:
+- /root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js'
+  ]
+}
+internal/modules/cjs/loader.js:883
+  throw err;
+  ^
+
+Error: Cannot find module 'solc'
+Require stack:
+- /root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js'
+  ]
+}
+internal/modules/cjs/loader.js:883
+  throw err;
+  ^
+
+Error: Cannot find module 'solc'
+Require stack:
+- /root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js'
+  ]
+}
+internal/modules/cjs/loader.js:883
+  throw err;
+  ^
+
+Error: Cannot find module 'solc'
+Require stack:
+- /root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js'
+  ]
+}
+internal/modules/cjs/loader.js:883
+  throw err;
+  ^
+
+Error: Cannot find module 'solc'
+Require stack:
+- /root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js'
+  ]
+}
+internal/modules/cjs/loader.js:883
+  throw err;
+  ^
+
+Error: Cannot find module 'solc'
+Require stack:
+- /root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js'
+  ]
+}
+internal/modules/cjs/loader.js:883
+  throw err;
+  ^
+
+Error: Cannot find module 'solc'
+Require stack:
+- /root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js'
+  ]
+}
+internal/modules/cjs/loader.js:883
+  throw err;
+  ^
+
+Error: Cannot find module 'solc'
+Require stack:
+- /root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js:12:12)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/root/mainnet1/blockscout/_build/prod/lib/explorer/priv/compile_solc.js'
+  ]
+}
+nohup: appending output to ‘nohup.out’
+nohup: appending output to ‘nohup.out’
+nohup: appending output to ‘nohup.out’
+nohup: appending output to ‘nohup.out’
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+nohup: appending output to ‘nohup.out’
+nohup: appending output to ‘nohup.out’
+nohup: appending output to ‘nohup.out’
+nohup: appending output to ‘nohup.out’
+nohup: appending output to ‘nohup.out’
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+** (Mix) Could not start application explorer: Explorer.Application.start(:normal, []) returned an error: shutdown: failed to start child: Explorer.Chain.Events.Listener
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: {:error, %Postgrex.Error{connection_id: nil, message: nil, postgres: %{code: :too_many_connections, file: "proc.c", line: "346", message: "sorry, too many clients already", pg_code: "53300", routine: "InitProcess", severity: "FATAL", unknown: "FATAL"}, query: nil}}
+            (explorer 4.1.7) lib/explorer/chain/events/listener.ex:17: Explorer.Chain.Events.Listener.init/1
+            (stdlib 3.16.1) gen_server.erl:423: :gen_server.init_it/2
+            (stdlib 3.16.1) gen_server.erl:390: :gen_server.init_it/6
+            (stdlib 3.16.1) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+** (Mix) Could not start application block_scout_web: BlockScoutWeb.Application.start(:normal, []) returned an error: shutdown: failed to start child: BlockScoutWeb.Endpoint
+    ** (EXIT) shutdown: failed to start child: {:ranch_listener_sup, BlockScoutWeb.Endpoint.HTTP}
+        ** (EXIT) shutdown: failed to start child: :ranch_acceptors_sup
+            ** (EXIT) {:listen_error, BlockScoutWeb.Endpoint.HTTP, :eaddrinuse}
+nohup: appending output to ‘nohup.out’
+nohup: appending output to ‘nohup.out’
+nohup: appending output to ‘nohup.out’
+nohup: appending output to ‘nohup.out’

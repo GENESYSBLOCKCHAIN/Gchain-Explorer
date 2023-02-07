@@ -1,0 +1,218 @@
+07:30:34.751 [debug] failed to fetch token instance metadata for {"0xe80a13a90ba6055dec0155c39f32fcd3a7852412", 1}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1\": invalid CID: selected encoding not supported\n"}
+07:30:34.898 [debug] failed to fetch token instance metadata for {"0xe80a13a90ba6055dec0155c39f32fcd3a7852412", 0}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE0: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE0\": invalid CID: selected encoding not supported\n"}
+10:20:53.340 [debug] failed to fetch token instance metadata for {"0xe80a13a90ba6055dec0155c39f32fcd3a7852412", 1}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1\": invalid CID: selected encoding not supported\n"}
+10:20:58.199 [debug] failed to fetch token instance metadata for {"0xe80a13a90ba6055dec0155c39f32fcd3a7852412", 0}: {:error, :timeout}
+10:20:58.213 [debug] failed to fetch token instance metadata for {"0xce21c72e21a0f2625b7a50d18072c98b8b6e5e56", 0}: {:error, :timeout}
+10:20:58.218 [debug] failed to fetch token instance metadata for {"0xce21c72e21a0f2625b7a50d18072c98b8b6e5e56", 1}: {:error, :timeout}
+10:21:51.970 [debug] failed to fetch token instance metadata for {"0xce21c72e21a0f2625b7a50d18072c98b8b6e5e56", 1}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1\": invalid CID: selected encoding not supported\n"}
+10:21:52.005 [debug] failed to fetch token instance metadata for {"0xe80a13a90ba6055dec0155c39f32fcd3a7852412", 0}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE0: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE0\": invalid CID: selected encoding not supported\n"}
+10:21:52.007 [debug] failed to fetch token instance metadata for {"0xce21c72e21a0f2625b7a50d18072c98b8b6e5e56", 0}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE0: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE0\": invalid CID: selected encoding not supported\n"}
+10:21:52.020 [debug] failed to fetch token instance metadata for {"0xe80a13a90ba6055dec0155c39f32fcd3a7852412", 1}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1\": invalid CID: selected encoding not supported\n"}
+10:02:37.921 [debug] failed to fetch token instance metadata for {"0xe80a13a90ba6055dec0155c39f32fcd3a7852412", 0}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE0: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE0\": invalid CID: selected encoding not supported\n"}
+10:02:37.952 [debug] failed to fetch token instance metadata for {"0xce21c72e21a0f2625b7a50d18072c98b8b6e5e56", 1}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1\": invalid CID: selected encoding not supported\n"}
+10:02:37.986 [debug] failed to fetch token instance metadata for {"0xce21c72e21a0f2625b7a50d18072c98b8b6e5e56", 0}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE0: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE0\": invalid CID: selected encoding not supported\n"}
+10:02:38.008 [debug] failed to fetch token instance metadata for {"0xe80a13a90ba6055dec0155c39f32fcd3a7852412", 1}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1\": invalid CID: selected encoding not supported\n"}
+10:06:01.595 [debug] failed to fetch token instance metadata for {"0xe80a13a90ba6055dec0155c39f32fcd3a7852412", 0}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE0: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE0\": invalid CID: selected encoding not supported\n"}
+10:06:01.595 [debug] failed to fetch token instance metadata for {"0xce21c72e21a0f2625b7a50d18072c98b8b6e5e56", 1}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1\": invalid CID: selected encoding not supported\n"}
+10:06:01.596 [debug] failed to fetch token instance metadata for {"0xe80a13a90ba6055dec0155c39f32fcd3a7852412", 1}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE1\": invalid CID: selected encoding not supported\n"}
+10:06:02.005 [debug] failed to fetch token instance metadata for {"0xce21c72e21a0f2625b7a50d18072c98b8b6e5e56", 0}: {:error, "ipfs resolve -r /ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE0: invalid path \"/ipfs/QmfWDgozAiXFo7kdDBqbNLBF2tCrdHn3zhGqZF6R9C7RvE0\": invalid CID: selected encoding not supported\n"}
+06:16:23.801 [debug] Unknown metadata format "1.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "1.json", position: 2, token: nil}}}
+06:16:23.801 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 1}: {:error, "1.json"}
+06:16:23.804 [debug] Unknown metadata format "2.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "2.json", position: 2, token: nil}}}
+06:16:23.804 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 2}: {:error, "2.json"}
+06:16:23.807 [debug] Unknown metadata format "3.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "3.json", position: 2, token: nil}}}
+06:16:23.808 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 3}: {:error, "3.json"}
+06:16:23.809 [debug] Unknown metadata format "4.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "4.json", position: 2, token: nil}}}
+06:16:23.809 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 4}: {:error, "4.json"}
+06:16:23.811 [debug] Unknown metadata format "5.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "5.json", position: 2, token: nil}}}
+06:16:23.811 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 5}: {:error, "5.json"}
+06:16:23.813 [debug] Unknown metadata format "6.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "6.json", position: 2, token: nil}}}
+06:16:23.813 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 6}: {:error, "6.json"}
+06:16:23.815 [debug] Unknown metadata format "7.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "7.json", position: 2, token: nil}}}
+06:16:23.815 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 7}: {:error, "7.json"}
+06:16:23.817 [debug] Unknown metadata format "8.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "8.json", position: 2, token: nil}}}
+06:16:23.817 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 8}: {:error, "8.json"}
+06:16:23.818 [debug] Unknown metadata format "9.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "9.json", position: 2, token: nil}}}
+06:16:23.819 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 9}: {:error, "9.json"}
+06:16:23.820 [debug] Unknown metadata format "10.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "10.json", position: 3, token: nil}}}
+06:16:23.820 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 10}: {:error, "10.json"}
+06:16:23.823 [debug] Unknown metadata format "11.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "11.json", position: 3, token: nil}}}
+06:16:23.823 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 11}: {:error, "11.json"}
+06:16:23.825 [debug] Unknown metadata format "12.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "12.json", position: 3, token: nil}}}
+06:16:23.825 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 12}: {:error, "12.json"}
+06:16:23.827 [debug] Unknown metadata format "13.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "13.json", position: 3, token: nil}}}
+06:16:23.827 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 13}: {:error, "13.json"}
+06:16:23.828 [debug] Unknown metadata format "14.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "14.json", position: 3, token: nil}}}
+06:16:23.829 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 14}: {:error, "14.json"}
+06:16:23.830 [debug] Unknown metadata format "15.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "15.json", position: 3, token: nil}}}
+06:16:23.830 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 15}: {:error, "15.json"}
+06:16:23.832 [debug] Unknown metadata format "16.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "16.json", position: 3, token: nil}}}
+06:16:23.832 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 16}: {:error, "16.json"}
+06:16:23.833 [debug] Unknown metadata format "17.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "17.json", position: 3, token: nil}}}
+06:16:23.834 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 17}: {:error, "17.json"}
+06:16:23.836 [debug] Unknown metadata format "18.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "18.json", position: 3, token: nil}}}
+06:16:23.836 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 18}: {:error, "18.json"}
+06:16:23.838 [debug] Unknown metadata format "19.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "19.json", position: 3, token: nil}}}
+06:16:23.838 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 19}: {:error, "19.json"}
+06:16:23.841 [debug] Unknown metadata format "20.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "20.json", position: 3, token: nil}}}
+06:16:23.841 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 20}: {:error, "20.json"}
+06:16:23.842 [debug] Unknown metadata format "21.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "21.json", position: 3, token: nil}}}
+06:16:23.842 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 21}: {:error, "21.json"}
+06:16:23.845 [debug] Unknown metadata format "22.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "22.json", position: 3, token: nil}}}
+06:16:23.845 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 22}: {:error, "22.json"}
+06:16:23.846 [debug] Unknown metadata format "23.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "23.json", position: 3, token: nil}}}
+06:16:23.846 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 23}: {:error, "23.json"}
+06:16:23.848 [debug] Unknown metadata format "24.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "24.json", position: 3, token: nil}}}
+06:16:23.848 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 24}: {:error, "24.json"}
+06:16:23.849 [debug] Unknown metadata format "25.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "25.json", position: 3, token: nil}}}
+06:16:23.849 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 25}: {:error, "25.json"}
+06:16:23.851 [debug] Unknown metadata format "26.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "26.json", position: 3, token: nil}}}
+06:16:23.851 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 26}: {:error, "26.json"}
+06:16:23.853 [debug] Unknown metadata format "27.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "27.json", position: 3, token: nil}}}
+06:16:23.853 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 27}: {:error, "27.json"}
+06:16:23.856 [debug] Unknown metadata format "28.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "28.json", position: 3, token: nil}}}
+06:16:23.856 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 28}: {:error, "28.json"}
+06:16:23.857 [debug] Unknown metadata format "29.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "29.json", position: 3, token: nil}}}
+06:16:23.857 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 29}: {:error, "29.json"}
+06:16:23.859 [debug] Unknown metadata format "30.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "30.json", position: 3, token: nil}}}
+06:16:23.859 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 30}: {:error, "30.json"}
+06:16:23.861 [debug] Unknown metadata format "31.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "31.json", position: 3, token: nil}}}
+06:16:23.861 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 31}: {:error, "31.json"}
+06:16:23.863 [debug] Unknown metadata format "32.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "32.json", position: 3, token: nil}}}
+06:16:23.863 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 32}: {:error, "32.json"}
+06:16:23.864 [debug] Unknown metadata format "33.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "33.json", position: 3, token: nil}}}
+06:16:23.864 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 33}: {:error, "33.json"}
+06:16:23.867 [debug] Unknown metadata format "34.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "34.json", position: 3, token: nil}}}
+06:16:23.867 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 34}: {:error, "34.json"}
+06:16:23.869 [debug] Unknown metadata format "35.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "35.json", position: 3, token: nil}}}
+06:16:23.869 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 35}: {:error, "35.json"}
+06:16:23.872 [debug] Unknown metadata format "36.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "36.json", position: 3, token: nil}}}
+06:16:23.872 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 36}: {:error, "36.json"}
+06:16:23.874 [debug] Unknown metadata format "37.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "37.json", position: 3, token: nil}}}
+06:16:23.874 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 37}: {:error, "37.json"}
+06:16:23.876 [debug] Unknown metadata format "38.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "38.json", position: 3, token: nil}}}
+06:16:23.877 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 38}: {:error, "38.json"}
+06:16:23.878 [debug] Unknown metadata format "39.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "39.json", position: 3, token: nil}}}
+06:16:23.878 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 39}: {:error, "39.json"}
+06:16:23.881 [debug] Unknown metadata format "40.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "40.json", position: 3, token: nil}}}
+06:16:23.881 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 40}: {:error, "40.json"}
+06:16:23.884 [debug] Unknown metadata format "41.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "41.json", position: 3, token: nil}}}
+06:16:23.885 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 41}: {:error, "41.json"}
+06:16:23.887 [debug] Unknown metadata format "42.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "42.json", position: 3, token: nil}}}
+06:16:23.887 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 42}: {:error, "42.json"}
+06:16:23.890 [debug] Unknown metadata format "43.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "43.json", position: 3, token: nil}}}
+06:16:23.890 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 43}: {:error, "43.json"}
+06:16:23.892 [debug] Unknown metadata format "44.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "44.json", position: 3, token: nil}}}
+06:16:23.892 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 44}: {:error, "44.json"}
+06:16:23.893 [debug] Unknown metadata format "45.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "45.json", position: 3, token: nil}}}
+06:16:23.894 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 45}: {:error, "45.json"}
+06:16:23.896 [debug] Unknown metadata format "46.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "46.json", position: 3, token: nil}}}
+06:16:23.896 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 46}: {:error, "46.json"}
+06:16:23.898 [debug] Unknown metadata format "47.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "47.json", position: 3, token: nil}}}
+06:16:23.898 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 47}: {:error, "47.json"}
+06:16:23.899 [debug] Unknown metadata format "48.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "48.json", position: 3, token: nil}}}
+06:16:23.899 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 48}: {:error, "48.json"}
+06:16:23.901 [debug] Unknown metadata format "49.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "49.json", position: 3, token: nil}}}
+06:16:23.901 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 49}: {:error, "49.json"}
+06:16:23.903 [debug] Unknown metadata format "50.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "50.json", position: 3, token: nil}}}
+06:16:23.903 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 50}: {:error, "50.json"}
+06:16:23.905 [debug] Unknown metadata format "51.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "51.json", position: 3, token: nil}}}
+06:16:23.905 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 51}: {:error, "51.json"}
+06:16:23.907 [debug] Unknown metadata format "52.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "52.json", position: 3, token: nil}}}
+06:16:23.907 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 52}: {:error, "52.json"}
+06:16:23.909 [debug] Unknown metadata format "53.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "53.json", position: 3, token: nil}}}
+06:16:23.909 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 53}: {:error, "53.json"}
+06:16:23.911 [debug] Unknown metadata format "54.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "54.json", position: 3, token: nil}}}
+06:16:23.911 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 54}: {:error, "54.json"}
+06:16:23.914 [debug] Unknown metadata format "55.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "55.json", position: 3, token: nil}}}
+06:16:23.914 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 55}: {:error, "55.json"}
+06:16:23.915 [debug] Unknown metadata format "56.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "56.json", position: 3, token: nil}}}
+06:16:23.915 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 56}: {:error, "56.json"}
+06:16:23.917 [debug] Unknown metadata format "57.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "57.json", position: 3, token: nil}}}
+06:16:23.917 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 57}: {:error, "57.json"}
+06:16:23.919 [debug] Unknown metadata format "58.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "58.json", position: 3, token: nil}}}
+06:16:23.919 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 58}: {:error, "58.json"}
+06:16:23.920 [debug] Unknown metadata format "59.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "59.json", position: 3, token: nil}}}
+06:16:23.920 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 59}: {:error, "59.json"}
+06:16:23.922 [debug] Unknown metadata format "60.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "60.json", position: 3, token: nil}}}
+06:16:23.922 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 60}: {:error, "60.json"}
+06:16:23.923 [debug] Unknown metadata format "61.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "61.json", position: 3, token: nil}}}
+06:16:23.923 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 61}: {:error, "61.json"}
+06:16:23.925 [debug] Unknown metadata format "62.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "62.json", position: 3, token: nil}}}
+06:16:23.925 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 62}: {:error, "62.json"}
+06:16:23.927 [debug] Unknown metadata format "63.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "63.json", position: 3, token: nil}}}
+06:16:23.927 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 63}: {:error, "63.json"}
+06:16:23.928 [debug] Unknown metadata format "64.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "64.json", position: 3, token: nil}}}
+06:16:23.929 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 64}: {:error, "64.json"}
+06:16:23.930 [debug] Unknown metadata format "65.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "65.json", position: 3, token: nil}}}
+06:16:23.930 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 65}: {:error, "65.json"}
+06:16:23.932 [debug] Unknown metadata format "66.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "66.json", position: 3, token: nil}}}
+06:16:23.932 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 66}: {:error, "66.json"}
+06:16:23.935 [debug] Unknown metadata format "67.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "67.json", position: 3, token: nil}}}
+06:16:23.935 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 67}: {:error, "67.json"}
+06:16:23.937 [debug] Unknown metadata format "68.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "68.json", position: 3, token: nil}}}
+06:16:23.937 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 68}: {:error, "68.json"}
+06:16:23.940 [debug] Unknown metadata format "69.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "69.json", position: 3, token: nil}}}
+06:16:23.940 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 69}: {:error, "69.json"}
+06:16:23.942 [debug] Unknown metadata format "70.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "70.json", position: 3, token: nil}}}
+06:16:23.942 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 70}: {:error, "70.json"}
+06:16:23.943 [debug] Unknown metadata format "71.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "71.json", position: 3, token: nil}}}
+06:16:23.943 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 71}: {:error, "71.json"}
+06:16:23.946 [debug] Unknown metadata format "72.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "72.json", position: 3, token: nil}}}
+06:16:23.946 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 72}: {:error, "72.json"}
+06:16:23.948 [debug] Unknown metadata format "73.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "73.json", position: 3, token: nil}}}
+06:16:23.948 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 73}: {:error, "73.json"}
+06:16:23.950 [debug] Unknown metadata format "74.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "74.json", position: 3, token: nil}}}
+06:16:23.950 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 74}: {:error, "74.json"}
+06:16:23.953 [debug] Unknown metadata format "75.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "75.json", position: 3, token: nil}}}
+06:16:23.953 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 75}: {:error, "75.json"}
+06:16:23.954 [debug] Unknown metadata format "76.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "76.json", position: 3, token: nil}}}
+06:16:23.954 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 76}: {:error, "76.json"}
+06:16:23.956 [debug] Unknown metadata format "77.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "77.json", position: 3, token: nil}}}
+06:16:23.956 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 77}: {:error, "77.json"}
+06:16:23.958 [debug] Unknown metadata format "78.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "78.json", position: 3, token: nil}}}
+06:16:23.958 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 78}: {:error, "78.json"}
+06:16:23.960 [debug] Unknown metadata format "79.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "79.json", position: 3, token: nil}}}
+06:16:23.960 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 79}: {:error, "79.json"}
+06:16:23.962 [debug] Unknown metadata format "80.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "80.json", position: 3, token: nil}}}
+06:16:23.962 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 80}: {:error, "80.json"}
+06:16:23.965 [debug] Unknown metadata format "81.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "81.json", position: 3, token: nil}}}
+06:16:23.965 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 81}: {:error, "81.json"}
+06:16:23.967 [debug] Unknown metadata format "82.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "82.json", position: 3, token: nil}}}
+06:16:23.967 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 82}: {:error, "82.json"}
+06:16:23.968 [debug] Unknown metadata format "83.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "83.json", position: 3, token: nil}}}
+06:16:23.969 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 83}: {:error, "83.json"}
+06:16:23.970 [debug] Unknown metadata format "84.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "84.json", position: 3, token: nil}}}
+06:16:23.970 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 84}: {:error, "84.json"}
+06:16:23.972 [debug] Unknown metadata format "85.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "85.json", position: 3, token: nil}}}
+06:16:23.972 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 85}: {:error, "85.json"}
+06:16:23.974 [debug] Unknown metadata format "86.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "86.json", position: 3, token: nil}}}
+06:16:23.974 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 86}: {:error, "86.json"}
+06:16:23.977 [debug] Unknown metadata format "87.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "87.json", position: 3, token: nil}}}
+06:16:23.977 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 87}: {:error, "87.json"}
+06:16:23.978 [debug] Unknown metadata format "88.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "88.json", position: 3, token: nil}}}
+06:16:23.978 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 88}: {:error, "88.json"}
+06:16:23.980 [debug] Unknown metadata format "89.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "89.json", position: 3, token: nil}}}
+06:16:23.980 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 89}: {:error, "89.json"}
+06:16:23.982 [debug] Unknown metadata format "90.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "90.json", position: 3, token: nil}}}
+06:16:23.982 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 90}: {:error, "90.json"}
+06:16:23.984 [debug] Unknown metadata format "91.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "91.json", position: 3, token: nil}}}
+06:16:23.984 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 91}: {:error, "91.json"}
+06:16:23.986 [debug] Unknown metadata format "92.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "92.json", position: 3, token: nil}}}
+06:16:23.986 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 92}: {:error, "92.json"}
+06:16:23.988 [debug] Unknown metadata format "93.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "93.json", position: 3, token: nil}}}
+06:16:23.988 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 93}: {:error, "93.json"}
+06:16:23.990 [debug] Unknown metadata format "94.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "94.json", position: 3, token: nil}}}
+06:16:23.990 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 94}: {:error, "94.json"}
+06:16:23.992 [debug] Unknown metadata format "95.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "95.json", position: 3, token: nil}}}
+06:16:23.992 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 95}: {:error, "95.json"}
+06:16:23.994 [debug] Unknown metadata format "96.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "96.json", position: 3, token: nil}}}
+06:16:23.994 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 96}: {:error, "96.json"}
+06:16:23.995 [debug] Unknown metadata format "97.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "97.json", position: 3, token: nil}}}
+06:16:23.995 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 97}: {:error, "97.json"}
+06:16:23.997 [debug] Unknown metadata format "98.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "98.json", position: 3, token: nil}}}
+06:16:23.997 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 98}: {:error, "98.json"}
+06:16:23.999 [debug] Unknown metadata format "99.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "99.json", position: 3, token: nil}}}
+06:16:23.999 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 99}: {:error, "99.json"}
+06:16:24.001 [debug] Unknown metadata format "100.json". error %MatchError{term: {:error, %Jason.DecodeError{data: "100.json", position: 4, token: nil}}}
+06:16:24.001 [debug] failed to fetch token instance metadata for {"0xd6ace5114dbae4b4043c6500cf46955a5961f587", 100}: {:error, "100.json"}
